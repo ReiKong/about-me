@@ -8,5 +8,6 @@ I'm a second-year **Computer Science** and **Sociology** student minoring in **C
 
 ## 📧  Get in touch!
 
-- Email: rei.kong@mail.mcgill.ca 
-- Linkedin: https://www.linkedin.com/in/reikong/
+- Email: reiskongs[at]gmail.com
+- Website: https://www.reikong.com
+- LinkedIn: https://www.linkedin.com/in/reikong/
